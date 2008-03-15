@@ -1,12 +1,15 @@
 Source: ttf-sidux
-Section: unknown
-Priority: extra
+Section: x11
+Priority: optional
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Build-Depends: cdbs, debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: cdbs, debhelper (>= 6)
+Build-Depends-Indep: defoma
+Standards-Version: 3.7.3
 
 Package: ttf-sidux
-Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Architecture: all
+Depends: defoma
+Recommends: fontconfig
+Description: official sidux truetype font 
+ Official sidux font used for the sidux
+ logo, and other PR material

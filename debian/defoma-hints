@@ -1,0 +1,13 @@
+category truetype
+begin /usr/share/fonts/truetype/sidux/sidux.ttf
+  Family = sidux
+  FontName = sidux-Bold
+  Encoding = Unicode
+  Location = English Slovenian
+  Charset = ISO8859-1 ISO8859-2
+  GeneralFamily = Roman
+  Weight = Bold
+  Width = Variable
+  Shape = Normal Upright
+  Priority = 20
+end

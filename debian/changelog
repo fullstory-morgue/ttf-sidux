@@ -6,5 +6,6 @@ ttf-sidux (1.0) unstable; urgency=low
   * change debian/compat to 6 
   * modify debian/control for specific pkg requirements 
   * add postinst copied from ttf-bitstream-vera package 
-
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 15 Mar 2008 22:15:18 +1100
+  * create debian/rules based on ttf-bitstream-vera package
+  
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 15 Mar 2008 22:39:08 +1100

@@ -11,8 +11,9 @@ ttf-sidux (0.1) UNRELEASED; urgency=low
   * add postinst copied from ttf-bitstream-vera package 
   * create debian/rules based on ttf-bitstream-vera package
   * modify copyright to remove lintian warning  
+  * copyright clarification received from cathbard
 
   [ Stefan Lippers-Hollmann ]
   * drop bogus debian/dirs, debian/docs.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 15 Mar 2008 16:30:59 +0100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Mar 2008 20:18:57 +1100

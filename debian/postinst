@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 #DEBHELPER#
 # copied from ttf-bitstream-vera package
 

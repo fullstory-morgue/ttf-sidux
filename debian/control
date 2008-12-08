@@ -11,7 +11,8 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/ttf-sidux/trunk/
 
 Package: ttf-sidux
 Architecture: all
-Depends: defoma
+Depends: ${misc:Depends},
+         defoma
 Recommends: fontconfig
 Description: official sidux truetype font 
  Official sidux font used for the sidux

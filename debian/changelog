@@ -1,3 +1,9 @@
+ttf-sidux (0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 09 Dec 2008 00:02:06 +0100
+
 ttf-sidux (0.5) unstable; urgency=low
 
   * make lintian happy and depend on ${misc:Depends}.

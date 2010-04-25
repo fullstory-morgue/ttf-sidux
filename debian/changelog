@@ -1,8 +1,9 @@
-ttf-sidux (0.7) UNRELEASED; urgency=low
+ttf-sidux (0.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * refer to versioned GPL-2 reference.
+  * s/(C)/©/.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:45:29 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:46:17 +0200
 
 ttf-sidux (0.6) unstable; urgency=low
 

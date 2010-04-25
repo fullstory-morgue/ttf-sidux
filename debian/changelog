@@ -1,8 +1,9 @@
-ttf-sidux (0.6) UNRELEASED; urgency=low
+ttf-sidux (0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.8.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 09 Dec 2008 00:02:06 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:43:52 +0200
 
 ttf-sidux (0.5) unstable; urgency=low
 

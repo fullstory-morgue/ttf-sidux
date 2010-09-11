@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: debhelper (>= 7)
+Build-Depends: debhelper (>= 7.9.3)
 Build-Depends-Indep: defoma
 Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/ttf-sidux/trunk

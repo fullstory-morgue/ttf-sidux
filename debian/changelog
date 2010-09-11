@@ -1,8 +1,8 @@
-ttf-sidux (0.9) UNRELEASED; urgency=low
+ttf-sidux (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 04:48:49 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:30:36 +0200
 
 ttf-sidux (0.8) unstable; urgency=low
 

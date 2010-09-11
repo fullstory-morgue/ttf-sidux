@@ -1,8 +1,9 @@
 ttf-sidux (0.8) unstable; urgency=low
 
   * bump standards version to 3.9.1, no changes necessary.
+  * elaborate long description a bit further, to make lintian happy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 04:44:45 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 04:47:38 +0200
 
 ttf-sidux (0.7) unstable; urgency=low
 

@@ -15,6 +15,7 @@ Depends: ${misc:Depends},
  defoma
 Recommends: fontconfig
 Description: official sidux truetype font 
- Old official sidux font used for the sidux logo, and other PR material.
+ Old sidux font used for the sidux logo, and other PR material.
  .
  This font is deprecated and should not be used for new creations.
+ Basically only printable 7 Bit ASCII characters are covered.

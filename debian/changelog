@@ -1,8 +1,9 @@
-ttf-sidux (0.10) UNRELEASED; urgency=low
+ttf-sidux (0.10) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:30:51 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Aug 2010 00:51:07 +0200
 
 ttf-sidux (0.9) unstable; urgency=low
 
